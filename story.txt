@@ -6,4 +6,5 @@ Cat --->
 father
 Girl--->
 The Cat bite the girl ---->
+The Dog Chase the boy ---->
 the Story End.
