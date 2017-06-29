@@ -2,6 +2,7 @@ The Story Title
 tree 
 dog
 boy 
+Cat --->
 father
 Girl--->
 the Story End.
