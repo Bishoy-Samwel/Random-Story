@@ -4,6 +4,7 @@ dog
 boy 
 Cat --->
 father
+The cat and the dog are zombies.---->
 Girl--->
 The Cat bite the girl ---->
 the Story End.
