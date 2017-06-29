@@ -1,0 +1,6 @@
+The Story Title 
+tree 
+dog
+boy 
+father
+the Story End.
